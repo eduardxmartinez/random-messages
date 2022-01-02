@@ -1,6 +1,6 @@
 {
   "name": "random-messages-by-eduardo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "random de mensajes",
   "main": "src/index.js",
   "scripts": {
@@ -13,8 +13,8 @@
   ],
   "author": "MIT",
   "license": "MIT",
-  "bin":{
+  "bin": {
     "random-msg": "./bin/global.js"
   },
-  "preferGlobal":true
+  "preferGlobal": true
 }
